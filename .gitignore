@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Python cache (на всякий случай)
+__pycache__/
+
+
