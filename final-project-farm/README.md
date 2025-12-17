@@ -66,6 +66,9 @@ transactions/
 
 - `sell_lot_demo.sql` — transaction script that demonstrates safe inventory selling
 
+## Backup and Recovery
+A basic backup and recovery strategy is provided in `backup_strategy.md`.
+
 ## How to Run
 1. Create a PostgreSQL database (e.g. `farmdb`)
 2. Connect to the database using psql or pgAdmin
